@@ -10,6 +10,9 @@ num1=11
 for k in num:
     sum=k*num1
     print(sum)
+
+
+
     
 
 
