@@ -7,3 +7,4 @@ sum=0
 for g in a:
  sum=sum+g
 print(sum)
+.
