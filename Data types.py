@@ -1,4 +1,4 @@
-A=['Abhu',20,12.5]    # LIST
+A=['Abhu',20,12.5]    # LIST, wriiten inside square brackets,ordered,mutable
    #1   2  3 
    #-3  -2 -1
 print(A[1]) # Output=20
@@ -12,4 +12,5 @@ t=('mug',55,99.0)   #tuple
 print(t[1])
 
 t[1]='hey'
-print(t)  # positions cannot be changed in tuple
+print(t)  # positions cannot be changed in tuple ie immutable
+#ordered,written inside round brackets,immutable

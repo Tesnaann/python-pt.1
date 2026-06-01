@@ -1,7 +1,7 @@
 num=[3,4,5]
 sum=0 #sum is intialized
 for k in num:
-    sum=sum+k #output=3,4,5
+    sum=sum+k #output=3,4,5=13
 
 
 num=(4,5,6)

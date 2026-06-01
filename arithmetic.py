@@ -7,7 +7,7 @@ print(A*B)  #mult
 
 print(A/B)  #div
 
-print(A//B) # floor div
+print(A//B) # floor div, nearest integer
 
 print(A%B)  # modulus
 

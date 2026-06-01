@@ -13,4 +13,3 @@ while c<=num:
   fact=fact*c
   c+=1
   print(fact)
-

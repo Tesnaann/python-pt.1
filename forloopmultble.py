@@ -22,3 +22,6 @@ a=10
 for b in range(32):
     print(f"{a}+{b}={a+b}")
 
+a=4
+for b in range(10):
+   print(f"{a}*{b}={a*b}")

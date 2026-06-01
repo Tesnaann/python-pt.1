@@ -11,3 +11,5 @@ for k in range(5,11):
     print(k) # continue is used to exclude ie,
     #output will be 1,2,3,4,6,7,8,9,10
 
+#pass-to pass without printing anything
+

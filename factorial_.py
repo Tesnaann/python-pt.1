@@ -9,4 +9,3 @@ print(fact)
 #fact=fact*num,
 #2*3=6
 
-
